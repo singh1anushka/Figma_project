@@ -1,4 +1,4 @@
-# Figma_project
+# UI/UX_project
 
 # View on Figma
 
@@ -83,4 +83,4 @@ C2: 10px/ Semi bold, Medium, Regular<br>
 
 ## Design Preview
 
-![Homepage Preview]()
+![Homepage Preview](MusicHomePage.png)
