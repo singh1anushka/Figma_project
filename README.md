@@ -22,11 +22,11 @@ The ASR Women’s Clothing Website is a ECommerce UI design created to enhance t
 Font Used : Inter
 Font size and Weight:
 Heading: 48px, 40px, 32px, 24px, 20px / Bold
-
+<br/>
 Paragraph: 
 P1: 16px / Bold, Semi bold, Medium, Regular
 P2: 14px/ Bold, Semi bold, Medium, Regular
-
+<br/>
 Caption: 
 C1: 12px / Semi bold, Medium, Regular
 C2: 10px/ Semi bold, Medium, Regular
