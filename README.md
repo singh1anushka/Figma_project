@@ -1,11 +1,14 @@
 # Figma_project
-# Mordern Women’s Clothing Website UI Design
 
-A modern, desktop-focused eCommerce UI design tailored for women, highlighting clear layout, elegant typography, and a soothing color palette.
-
-## View on Figma
+# View on Figma
 
 [Figma Project Link – ASR Women’s Clothing Website](https://www.figma.com/design/0yvhInVoM4ym1HUeMXTuFF/Anushka-Singh_Women-s-Clothing?node-id=1-5&t=Qe7iICLT80UzPOdA-1)
+
+[Figma Project Link – Music Website](https://www.figma.com/design/ppqq9OaeBREHj0hEoLJemZ/Music-websites-design?node-id=12-85&t=r8nmNEa28okJgx97-1)
+
+## Mordern Women’s Clothing Website UI Design
+
+A modern, desktop-focused eCommerce UI design tailored for women, highlighting clear layout, elegant typography, and a soothing color palette.
 
 ## What I Did
 
