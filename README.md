@@ -8,31 +8,38 @@
 
 ## Mordern Women’s Clothing Website UI Design
 
-A modern, desktop-focused eCommerce UI design tailored for women, highlighting clear layout, elegant typography, and a soothing color palette.
+The ASR Women’s Clothing Website is a ECommerce UI design created to enhance the online shopping experience for female users. This is a visually pleasing and easy-to-use eCommerce website design with a clean layout and modern touch. It includes well-organized product categories, making it simple for users to browse and shop. The design focuses on enhancing user experience through clarity, structure, and aesthetic appeal.
 
 ## What I Did
 
 - Designed wireframes and high-level desktop screens in Figma
 - Focused on a clean structure, clear navigation, and brand-focused visuals
+- Created dedicated sections for all essential clothing categories to meet user needs.
 - Categorized products by type, size, and color to improve discoverability
 
 ## Typography
 
-| Style        | Font Family        | Usage                         |
-|--------------|--------------------|-------------------------------|
-| Headings     | Inter              | Section titles and headers    |
-| Body Text    | Open Sans          | Paragraphs and product info   |
-| Accent Text  | Playfair Display   | Promotional banners and highlights |
+Font Used : Inter
+Font size and Weight:
+Heading: 48px, 40px, 32px, 24px, 20px / Bold
+
+Paragraph: 
+P1: 16px / Bold, Semi bold, Medium, Regular
+P2: 14px/ Bold, Semi bold, Medium, Regular
+
+Caption: 
+C1: 12px / Semi bold, Medium, Regular
+C2: 10px/ Semi bold, Medium, Regular
 
 ## Color Palette
 
 | Usage            | Hex Code   
 |------------------|-----------
-| Primary Color    | #7F56D9   
-| Secondary Color  | #EAE3FF   
-| Text Color       | #1E1E1E   
-| Background       | #FFFFFF  
-| CTA Button       | #F94F6D   
+| Primary Color    | #223588   | ![#7F56D9](https://via.placeholder.com/20/7F56D9?text=+) |
+| Secondary Color  | #B8DACA   
+| Text Primary     | #FFFFFF , #000000   
+| Text Secondary   | #252525  
+| CTA Button       | #223588   
 
 ## Design Preview
 
