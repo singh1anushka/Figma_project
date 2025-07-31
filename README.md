@@ -33,4 +33,4 @@ A modern, desktop-focused eCommerce UI design tailored for women, highlighting c
 
 ## Design Preview
 
-![Homepage Preview](
+![Homepage Preview](HomePage.png)
